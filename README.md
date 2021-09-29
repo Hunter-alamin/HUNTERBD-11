@@ -11,7 +11,7 @@ BANGLADESHI 11 DIGIT CRACKING TOOL FOR BANGLADESHI USERS
 
 😈 pkg install git
 
-😈 pip2 install requests
+😈 pip2 install requests lolcat
 
 😈 pip2 install tqdm
 
